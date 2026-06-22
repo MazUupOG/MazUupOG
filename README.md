@@ -1,9 +1,5 @@
 <div id="header" align="center">
 
+<img width="735" height="417" alt="Image" src="https://github.com/user-attachments/assets/97ca49cc-fb1c-4296-bbf8-35f313d926a3" />
 
- 
-‿ † The Ghost Of You † ‿
-
- ![Image](https://github.com/user-attachments/assets/c3dda175-adc6-4f11-ae74-0851bc3f552b)
-
-Check my strawpage! :3
+Check my strawpage! :3 + sig atabook >_<
