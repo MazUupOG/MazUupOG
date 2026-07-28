@@ -1,5 +1,8 @@
 <div id="header" align="center">
 
+<img width="67" src="https://komarev.com/ghpvc/?username=MazUupOG&label=Views&color=311919">
+
+
 ![Image](https://github.com/user-attachments/assets/a33726f2-2226-4937-9861-3e7290221597)
 
 <img width="735" height="417" alt="Image" src="https://github.com/user-attachments/assets/97ca49cc-fb1c-4296-bbf8-35f313d926a3" />
